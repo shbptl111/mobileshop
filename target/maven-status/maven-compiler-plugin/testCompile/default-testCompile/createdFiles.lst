@@ -1,0 +1,8 @@
+com\niit\test\CartDAOTest.class
+com\niit\test\CategoryDAOTestCase.class
+com\niit\test\CategoryTestRunner.class
+com\niit\test\UserTestRunner.class
+com\niit\test\UserDAOTestCase.class
+com\niit\test\ProductDAOTestCase.class
+com\niit\test\ProductTestRunner.class
+com\niit\test\SupplierDAOTestCase.class
